@@ -3,3 +3,7 @@ Fast Lane to Python
 
 Page 38 (52 of 161 in PDF)
 would mean that z is accesible as just z rather than tf.z.
+
+Page 49 (63 of 171 in PDF)
+For modules outside the ordinary Python distribution, make sure they are in your Python search path, and
+be sure show the “dot” sequence, e.g.
