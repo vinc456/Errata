@@ -7,3 +7,7 @@ would mean that z is accesible as just z rather than tf.z.
 Page 49 (63 of 171 in PDF)
 For modules outside the ordinary Python distribution, make sure they are in your Python search path, and
 be sure show the “dot” sequence, e.g.
+
+Page 63 (77 of 171 in PDF)
+Moreover, it may help us avoid bugs, since a lot of the infracture we’d need to write ourselves,
+which would be bug-prone, is automatically taken care of us by the functional programming constructs
