@@ -11,3 +11,7 @@ be sure show the “dot” sequence, e.g.
 Page 63 (77 of 171 in PDF)
 Moreover, it may help us avoid bugs, since a lot of the infracture we’d need to write ourselves,
 which would be bug-prone, is automatically taken care of us by the functional programming constructs
+
+Page 67 (81 of 171 in PDF)
+It is amusing that the official
+Python documentation says, “If youve got the stomach for it, list comprehensions can be nested”
