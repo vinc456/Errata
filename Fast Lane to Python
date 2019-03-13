@@ -15,3 +15,13 @@ which would be bug-prone, is automatically taken care of us by the functional pr
 Page 67 (81 of 171 in PDF)
 It is amusing that the official
 Python documentation says, “If youve got the stomach for it, list comprehensions can be nested”
+
+
+Page 131 (145 of 171 in PDF)
+
+   ...: def main():
+    ...:     g = gy()
+    ...:     print(next(g))
+    ...:     print(next(g))
+    ...:     print(next(g))
+    https://stackoverflow.com/questions/1073396/is-generator-next-visible-in-python-3-0
