@@ -1,0 +1,6 @@
+A Tour of C++ (Second edition)
+Addison-Wesley. ISBN 978-0-13-499783-4. July 2018.
+
+In 1.5 Scope and Lifetime
+`string name;   // name is a member or Record (a string member)`
+"or" should be "of"
