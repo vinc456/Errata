@@ -12,3 +12,6 @@ should be constpr int dmv = 17;
 In 7.1 Strings and Regular Expressions
 The C++ standard library offers a sting type to 
 should be string type
+
+In 7.2.1. string Implementation
+To handle multipe character sets, string is really an alias for a general template basic_string with the character type char:
