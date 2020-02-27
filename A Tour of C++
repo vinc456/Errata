@@ -8,3 +8,7 @@ In 1.5 Scope and Lifetime
 In 1.6 Constants, the code snippet
 constexprint dmv = 17;              // dmv is a named constant
 should be constpr int dmv = 17;
+
+In 7.1 Strings and Regular Expressions
+The C++ standard library offers a sting type to 
+should be string type
