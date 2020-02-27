@@ -15,3 +15,6 @@ should be string type
 
 In 7.2.1. string Implementation
 To handle multipe character sets, string is really an alias for a general template basic_string with the character type char:
+
+In 9.5. unordered_map
+Creaing a new hash function by combining existing hash functions using exclusive or (^) is simple and often very effective. We often prefer a set to a map when the key is already part of the data.
